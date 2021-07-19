@@ -1,0 +1,11 @@
+// 此处使用v3版本
+syntax = "proto3";
+
+option go_package = "../model;model";
+
+message ChatRequest {
+    string userName = 1;
+    string type = 2;
+    string content = 3;
+    map<string,string> userList = 4;
+}
