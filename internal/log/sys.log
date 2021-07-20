@@ -1,0 +1,206 @@
+INFO: 2021/07/19 18:23:02 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:28:20 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:30:33 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:30:38 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:30:46 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:30:56 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:33:52 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:34:13 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:34:25 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:34:30 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:34:49 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:46:28 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:46:32 connection.go:68: talk类型消息deefds
+INFO: 2021/07/19 18:46:43 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:48:06 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:48:11 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:53:22 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:53:23 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:54:30 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:54:32 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:56:12 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:56:13 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 18:58:02 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 18:58:03 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 19:02:32 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 19:02:37 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 19:02:39 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/19 19:02:40 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/19 19:04:48 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:02:39 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:03:37 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:03:45 connection.go:68: talk类型消息hello tom
+INFO: 2021/07/20 10:07:53 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:10:18 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:32:15 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:32:30 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:32:46 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:32:48 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:50:04 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:50:06 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:51:22 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:51:25 connection.go:68: talk类型消息dd
+INFO: 2021/07/20 10:51:26 connection.go:68: talk类型消息dd
+INFO: 2021/07/20 10:51:27 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:52:50 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:52:53 connection.go:68: talk类型消息fff
+INFO: 2021/07/20 10:52:54 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:52:56 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:52:58 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:54:11 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 10:54:14 connection.go:68: talk类型消息gfrewa
+INFO: 2021/07/20 10:54:25 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 10:54:29 connection.go:68: talk类型消息SignIn
+INFO: 2021/07/20 11:18:18 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 11:18:26 connection.go:69: talk类型消息sdfsf
+INFO: 2021/07/20 11:18:31 connection.go:69: talk类型消息fsds
+INFO: 2021/07/20 11:18:34 connection.go:69: talk类型消息fsadf
+INFO: 2021/07/20 11:20:13 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 11:21:17 connection.go:69: talk类型消息hellorfaww
+INFO: 2021/07/20 11:21:17 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 11:43:23 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 11:43:26 connection.go:69: talk类型消息ee
+INFO: 2021/07/20 11:43:37 connection.go:69: talk类型消息eeee
+INFO: 2021/07/20 11:43:39 connection.go:69: talk类型消息eee
+INFO: 2021/07/20 11:43:41 connection.go:69: talk类型消息eeeee
+INFO: 2021/07/20 11:43:42 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 11:53:00 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 11:54:18 connection.go:69: talk类型消息jj
+INFO: 2021/07/20 11:54:20 connection.go:69: talk类型消息jjjj
+INFO: 2021/07/20 11:54:27 connection.go:56: websocket: close 1005 (no status)
+INFO: 2021/07/20 12:22:03 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:24:50 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:25:09 connection.go:69: talk类型消息rrr
+INFO: 2021/07/20 12:25:33 connection.go:69: talk类型消息rewr
+INFO: 2021/07/20 12:25:34 connection.go:69: talk类型消息rr
+INFO: 2021/07/20 12:25:36 connection.go:69: talk类型消息r
+INFO: 2021/07/20 12:25:37 connection.go:69: talk类型消息r
+INFO: 2021/07/20 12:25:39 connection.go:69: talk类型消息r
+INFO: 2021/07/20 12:25:59 connection.go:69: talk类型消息rtyui
+INFO: 2021/07/20 12:26:52 connection.go:69: talk类型消息tyhty
+INFO: 2021/07/20 12:27:43 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:28:12 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:33:59 connection.go:69: talk类型消息ttt
+INFO: 2021/07/20 12:34:04 connection.go:69: talk类型消息t54tg
+INFO: 2021/07/20 12:34:46 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:34:49 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 12:35:34 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 12:35:37 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 12:38:40 connection.go:71: talk类型消息方法丰田5
+INFO: 2021/07/20 12:38:44 connection.go:71: talk类型消息
+INFO: 2021/07/20 12:46:10 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 12:46:57 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 13:04:55 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 13:04:57 connection.go:71: talk类型消息fff
+INFO: 2021/07/20 13:05:11 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 13:05:15 connection.go:71: talk类型消息rr
+INFO: 2021/07/20 13:05:17 connection.go:71: talk类型消息rrr
+INFO: 2021/07/20 13:05:17 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/20 13:05:19 connection.go:71: talk类型消息SignIn
+INFO: 2021/07/20 13:06:06 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:06:10 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:06:54 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:06:57 connection.go:69: talk类型消息t54t
+INFO: 2021/07/20 13:07:03 connection.go:69: talk类型消息hello
+INFO: 2021/07/20 13:07:08 connection.go:69: talk类型消息tot
+INFO: 2021/07/20 13:33:51 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:34:08 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:34:12 connection.go:69: talk类型消息rrr
+INFO: 2021/07/20 13:36:39 connection.go:69: talk类型消息rr
+INFO: 2021/07/20 13:36:40 connection.go:69: talk类型消息rrr
+INFO: 2021/07/20 13:36:41 connection.go:69: talk类型消息rr
+INFO: 2021/07/20 13:36:42 connection.go:69: talk类型消息rrr
+INFO: 2021/07/20 13:36:44 connection.go:69: talk类型消息rrr
+INFO: 2021/07/20 13:38:00 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:38:12 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 13:39:15 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:39:19 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:41:25 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:41:48 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:42:05 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:42:08 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:43:30 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:43:32 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:46:47 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:48:10 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:48:12 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:48:14 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:48:17 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:48:22 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:49:53 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:49:56 connection.go:70: talk类型消息erty
+INFO: 2021/07/20 13:50:03 connection.go:70: talk类型消息ethye
+INFO: 2021/07/20 13:50:15 connection.go:70: talk类型消息ffff
+INFO: 2021/07/20 13:50:16 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:50:21 connection.go:70: talk类型消息jynyy
+INFO: 2021/07/20 13:50:23 connection.go:70: talk类型消息ymy
+INFO: 2021/07/20 13:54:38 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:55:11 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:55:13 connection.go:70: talk类型消息rr
+INFO: 2021/07/20 13:55:17 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:23 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:25 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:28 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:30 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:32 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:34 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:42 connection.go:70: talk类型消息rrr
+INFO: 2021/07/20 13:55:51 connection.go:70: talk类型消息rrrr
+INFO: 2021/07/20 13:55:56 connection.go:70: talk类型消息rrtrt
+INFO: 2021/07/20 13:56:14 connection.go:70: talk类型消息ttt
+INFO: 2021/07/20 13:58:02 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:58:06 connection.go:70: talk类型消息fdfgh
+INFO: 2021/07/20 13:58:10 connection.go:70: talk类型消息gdfgh
+INFO: 2021/07/20 13:58:32 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:58:37 connection.go:70: talk类型消息tghj
+INFO: 2021/07/20 13:58:56 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 13:58:58 connection.go:70: talk类型消息ytret
+INFO: 2021/07/20 13:59:01 connection.go:70: talk类型消息tyerery
+INFO: 2021/07/20 13:59:13 connection.go:70: talk类型消息ter1
+INFO: 2021/07/20 13:59:19 connection.go:70: talk类型消息sdfg
+INFO: 2021/07/20 14:00:05 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:00:08 connection.go:70: talk类型消息122
+INFO: 2021/07/20 14:00:15 connection.go:70: talk类型消息11111
+INFO: 2021/07/20 14:00:21 connection.go:70: talk类型消息2222
+INFO: 2021/07/20 14:00:25 connection.go:70: talk类型消息11
+INFO: 2021/07/20 14:00:29 connection.go:70: talk类型消息2222
+INFO: 2021/07/20 14:00:34 connection.go:70: talk类型消息222
+INFO: 2021/07/20 14:00:39 connection.go:70: talk类型消息wewe
+INFO: 2021/07/20 14:00:47 connection.go:70: talk类型消息eeeee
+INFO: 2021/07/20 14:01:01 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:01:03 connection.go:70: talk类型消息ewew
+INFO: 2021/07/20 14:01:11 connection.go:70: talk类型消息43432
+INFO: 2021/07/20 14:01:18 connection.go:70: talk类型消息rwre
+INFO: 2021/07/20 14:01:23 connection.go:70: talk类型消息wrewr
+INFO: 2021/07/20 14:01:27 connection.go:70: talk类型消息rere
+INFO: 2021/07/20 14:01:32 connection.go:70: talk类型消息rwerwr
+INFO: 2021/07/20 14:02:16 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:02:24 connection.go:58: websocket: close 1005 (no status)
+INFO: 2021/07/20 14:02:26 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:02:32 connection.go:58: websocket: close 1005 (no status)
+INFO: 2021/07/20 14:02:33 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:03:00 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:03:02 connection.go:58: websocket: close 1005 (no status)
+INFO: 2021/07/20 14:03:49 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:03:50 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:03:53 connection.go:58: websocket: close 1005 (no status)
+INFO: 2021/07/20 14:03:55 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:04:02 connection.go:70: talk类型消息juyj
+INFO: 2021/07/20 14:04:04 connection.go:70: talk类型消息jj
+INFO: 2021/07/20 14:04:12 connection.go:70: talk类型消息gger
+INFO: 2021/07/20 14:04:15 connection.go:70: talk类型消息tt
+INFO: 2021/07/20 14:04:56 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:04:59 connection.go:70: talk类型消息rhgfsd
+INFO: 2021/07/20 14:05:01 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:05:03 connection.go:70: talk类型消息ewrt
+INFO: 2021/07/20 14:05:07 connection.go:70: talk类型消息ert
+INFO: 2021/07/20 14:07:23 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:07:28 connection.go:70: talk类型消息SignIn
+INFO: 2021/07/20 14:07:31 connection.go:70: talk类型消息dd
+INFO: 2021/07/20 14:07:33 connection.go:70: talk类型消息ddd
+INFO: 2021/07/20 14:30:59 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 14:31:09 connection.go:69: talk类型消息sddd
+INFO: 2021/07/20 14:31:26 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 14:31:29 connection.go:69: talk类型消息eeee
+INFO: 2021/07/20 14:31:31 connection.go:69: talk类型消息eee
+INFO: 2021/07/20 14:31:44 connection.go:69: talk类型消息SignIn

@@ -1,4 +1,4 @@
-package log
+package config
 
 import (
 	"io"
@@ -7,11 +7,11 @@ import (
 )
 
 var (
-	Info *log.Logger
+	Info  *log.Logger
 	Error *log.Logger
 )
 
-func init()  {
+func init() {
 	//日志输出文件
 	file, err := os.OpenFile("internal/log/sys.log", os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
 	if err != nil {

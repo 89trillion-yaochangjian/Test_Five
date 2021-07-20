@@ -1,7 +1,7 @@
 package service
 
 import (
-	"ChatService/internal/log"
+	"ChatService/internal/config"
 	"ChatService/internal/model"
 	"ChatService/internal/wsClient"
 	"github.com/gorilla/websocket"
@@ -19,7 +19,7 @@ func ServeWs(hub *wsClient.Hub, w http.ResponseWriter, r *http.Request) {
 
 	conn, err := upGrader.Upgrade(w, r, nil)
 	if err != nil {
-		log.Error.Println(err)
+		config.Error.Println(err)
 		return
 	}
 	username := r.Header.Get("username")
