@@ -1,4 +1,4 @@
-package wsClient
+package ws
 
 //抽象连接器
 type Hub struct {
@@ -47,4 +47,3 @@ func (h *Hub) Run() {
 		}
 	}
 }
-

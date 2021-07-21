@@ -3,7 +3,7 @@ package service
 import (
 	"ChatService/internal/config"
 	"ChatService/internal/model"
-	"ChatService/internal/wsClient"
+	"ChatService/internal/ws"
 	"github.com/gorilla/websocket"
 	"net/http"
 )
@@ -15,7 +15,7 @@ var upGrader = websocket.Upgrader{
 
 // serveWs 处理来自对等方的 websocket 请求。
 
-func ServeWs(hub *wsClient.Hub, w http.ResponseWriter, r *http.Request) {
+func ServeWs(hub *ws.Hub, w http.ResponseWriter, r *http.Request) {
 
 	conn, err := upGrader.Upgrade(w, r, nil)
 	if err != nil {
@@ -23,7 +23,7 @@ func ServeWs(hub *wsClient.Hub, w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	username := r.Header.Get("username")
-	client := &wsClient.Client{Hub: hub, Conn: conn, Send: make(chan []byte, 256), ChatRequest: model.ChatRequest{}}
+	client := &ws.Client{Hub: hub, Conn: conn, Send: make(chan []byte, 256), ChatRequest: model.ChatRequest{}}
 	hub.Register <- client
 	client.ChatRequest.UserName = username
 	// 允许通过完成所有工作来收集调用者引用的内存

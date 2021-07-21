@@ -204,3 +204,1089 @@ INFO: 2021/07/20 14:31:26 connection.go:69: talk类型消息SignIn
 INFO: 2021/07/20 14:31:29 connection.go:69: talk类型消息eeee
 INFO: 2021/07/20 14:31:31 connection.go:69: talk类型消息eee
 INFO: 2021/07/20 14:31:44 connection.go:69: talk类型消息SignIn
+INFO: 2021/07/20 14:47:00 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:00 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:00 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:01 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:02 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:03 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:04 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:05 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:06 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:07 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:08 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:09 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 14:47:10 connection.go:70: talk类型消息hello go
+INFO: 2021/07/20 18:56:20 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/20 18:56:22 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/20 18:56:32 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/20 18:56:33 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/20 18:58:44 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 18:58:46 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 18:58:47 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 18:58:52 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 18:58:54 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 18:58:58 connection.go:74: talk类型消息hello
+INFO: 2021/07/20 18:59:00 connection.go:74: talk类型消息fqwfew
+INFO: 2021/07/20 18:59:01 connection.go:74: talk类型消息rqwer
+INFO: 2021/07/20 18:59:22 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 18:59:23 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 18:59:27 connection.go:74: talk类型消息retew
+INFO: 2021/07/20 18:59:29 connection.go:74: talk类型消息qwere
+INFO: 2021/07/20 18:59:33 connection.go:74: talk类型消息rrrrr
+INFO: 2021/07/20 19:18:38 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:18:44 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:18:50 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:18:51 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:18:56 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:18:57 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:18:59 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:18:59 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:19:00 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:19:01 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:19:04 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:19:05 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:19:06 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/20 19:19:07 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/20 19:19:43 connection.go:74: talk类型消息t5
+INFO: 2021/07/21 16:36:00 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:36:02 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 16:36:04 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:36:07 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:36:10 connection.go:74: talk类型消息rrrr
+INFO: 2021/07/21 16:36:11 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:36:12 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 16:36:14 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:36:19 connection.go:74: talk类型消息33333
+INFO: 2021/07/21 16:36:22 connection.go:74: talk类型消息3333
+INFO: 2021/07/21 16:36:25 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:36:26 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:36:29 connection.go:74: talk类型消息rrrr
+INFO: 2021/07/21 16:36:45 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:36:56 connection.go:74: talk类型消息hbgfvcd
+INFO: 2021/07/21 16:36:59 connection.go:74: talk类型消息sfv
+INFO: 2021/07/21 16:37:01 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:37:04 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:37:07 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:37:17 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:39:35 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:39:37 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:39:45 connection.go:74: talk类型消息
+INFO: 2021/07/21 16:45:44 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 16:45:48 connection.go:74: talk类型消息fff
+INFO: 2021/07/21 16:45:51 connection.go:74: talk类型消息fffffffff
+INFO: 2021/07/21 16:46:08 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 16:46:11 connection.go:74: talk类型消息fff
+INFO: 2021/07/21 16:46:15 connection.go:74: talk类型消息hello
+INFO: 2021/07/21 16:46:16 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:46:19 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 16:46:23 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 16:46:26 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 17:10:40 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 17:10:44 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 17:10:46 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:10:58 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 17:11:00 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 17:11:01 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 17:11:04 connection.go:74: talk类型消息rr
+INFO: 2021/07/21 17:11:05 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:06 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:06 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:06 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:06 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:07 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:07 connection.go:74: talk类型消息
+INFO: 2021/07/21 17:11:09 connection.go:74: talk类型消息rrr
+INFO: 2021/07/21 17:39:32 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 17:39:35 connection.go:74: talk类型消息ee
+INFO: 2021/07/21 17:39:36 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:39:37 connection.go:74: talk类型消息SignIn
+INFO: 2021/07/21 17:53:18 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:19 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:24 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:29 chatRouter.go:28: talk类型消息hellof
+INFO: 2021/07/21 17:53:31 chatRouter.go:28: talk类型消息fewfqr
+INFO: 2021/07/21 17:53:34 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:45 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:47 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:47 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:51 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:53 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:55 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:56 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:53:57 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:53:58 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:55:06 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:55:21 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:55:22 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 17:55:24 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:58:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:01 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:02 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:03 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:04 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:05 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:06 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:07 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:08 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:09 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:10 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:11 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:12 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:13 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:14 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:15 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:16 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:17 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:18 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:19 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:20 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:21 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:22 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:23 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:24 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:25 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:26 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:27 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:28 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:29 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:30 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:31 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:32 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:33 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:34 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:35 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:36 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:37 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:38 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:39 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:40 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:41 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:42 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:43 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:44 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:45 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:46 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:47 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:48 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:49 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:50 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:51 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:52 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:53 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:54 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:55 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:56 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:57 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:58 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 17:59:59 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:00:00 chatRouter.go:28: talk类型消息hello go
+INFO: 2021/07/21 18:01:48 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:01:56 chatRouter.go:28: talk类型消息tttt
+INFO: 2021/07/21 18:02:08 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:02:11 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 18:02:15 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:02:20 chatRouter.go:28: talk类型消息gh
+INFO: 2021/07/21 18:02:55 chatRouter.go:28: talk类型消息dd
+INFO: 2021/07/21 18:03:21 chatRouter.go:28: talk类型消息
+INFO: 2021/07/21 18:03:24 chatRouter.go:28: talk类型消息hnjl
+INFO: 2021/07/21 18:03:34 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:04:35 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:05:52 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:05:55 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:05:58 connection.go:59: websocket: close 1005 (no status)
+INFO: 2021/07/21 18:05:59 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:07:04 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:07:06 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:10:39 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:10:45 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:14:34 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:14:36 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:25:35 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:25:44 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 18:25:48 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:25:52 chatRouter.go:28: talk类型消息SignIn
+INFO: 2021/07/21 18:25:54 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 18:28:50 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:28:52 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:41:00 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:41:02 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:45:00 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:45:01 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:45:10 chatRouter.go:29: talk类型消息WWW
+INFO: 2021/07/21 18:45:12 connection.go:61: websocket: close 1005 (no status)
+INFO: 2021/07/21 18:45:14 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:45:16 chatRouter.go:29: talk类型消息WWWW
+INFO: 2021/07/21 18:45:53 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:45:54 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:46:34 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:46:35 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:46:40 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:46:49 chatRouter.go:29: talk类型消息GGG
+INFO: 2021/07/21 18:46:52 chatRouter.go:29: talk类型消息GGG
+INFO: 2021/07/21 18:46:54 chatRouter.go:29: talk类型消息GG
+INFO: 2021/07/21 18:49:58 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:49:59 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:50:00 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:50:02 connection.go:73: talk类型消息D
+INFO: 2021/07/21 18:50:04 connection.go:73: talk类型消息D
+INFO: 2021/07/21 18:50:05 connection.go:73: talk类型消息D
+INFO: 2021/07/21 18:50:38 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:50:55 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:50:57 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:51:09 connection.go:73: talk类型消息rr
+INFO: 2021/07/21 18:51:52 connection.go:73: talk类型消息SignIn
+INFO: 2021/07/21 18:54:51 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 18:54:56 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:20:05 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:20:05 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:20:07 chatRouter.go:29: talk类型消息eeee
+INFO: 2021/07/21 19:20:10 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:11 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:12 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:13 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:15 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:16 chatRouter.go:29: talk类型消息111
+INFO: 2021/07/21 19:20:18 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:21 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:22 chatRouter.go:29: talk类型消息11
+INFO: 2021/07/21 19:20:23 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:24 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:25 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:26 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:27 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:28 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:29 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:30 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:32 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:33 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:37 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:38 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:40 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:41 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:42 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:43 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:45 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:46 chatRouter.go:29: talk类型消息1
+INFO: 2021/07/21 19:20:50 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 19:20:57 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 19:21:37 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:21:39 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:25:43 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 19:25:44 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:25:51 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 19:25:54 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 19:25:57 chatRouter.go:29: talk类型消息rerew
+INFO: 2021/07/21 19:25:57 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:25:59 chatRouter.go:29: talk类型消息rr
+INFO: 2021/07/21 19:26:01 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:02 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:02 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:02 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:02 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:02 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:03 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:03 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:04 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:04 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:04 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:04 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:05 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:05 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:06 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:06 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:06 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:06 chatRouter.go:29: talk类型消息
+INFO: 2021/07/21 19:26:08 chatRouter.go:29: talk类型消息ferfef
+INFO: 2021/07/21 19:30:07 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 19:30:09 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:08:48 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:08:48 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 20:08:49 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:08:55 chatRouter.go:29: talk类型消息发热发热发1
+INFO: 2021/07/21 20:09:00 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 20:09:51 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:09:57 connection.go:60: websocket: close 1005 (no status)
+INFO: 2021/07/21 20:11:40 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:11:54 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:11:56 connection.go:61: websocket: close 1005 (no status)
+INFO: 2021/07/21 20:12:55 chatRouter.go:29: talk类型消息SignIn
+INFO: 2021/07/21 20:12:57 connection.go:61: websocket: close 1005 (no status)
+INFO: 2021/07/21 20:13:14 chatRouter.go:29: talk类型消息SignIn

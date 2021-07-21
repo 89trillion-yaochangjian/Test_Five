@@ -7,28 +7,28 @@
 #### 2、目录结构
 
 ```
-..
+.
 ├── README.md
-├── __pycache__
-│   └── locustfile.cpython-39.pyc
 ├── app
 │   └── main.go
 ├── go.mod
 ├── go.sum
-├── home.html
 ├── internal
 │   ├── config
 │   │   └── logConfig.go
-│   ├── logInfo
+│   ├── ctrl
+│   │   └── chatCtrl.go
+│   ├── log
 │   │   └── sys.log
 │   ├── model
-│   │   ├── ChatProto.pb.go
-│   │   └── ChatProto.proto
-│   ├── msgType
-│   │   └── MsgType.go
+│   │   ├── MsgType.go
+│   │   ├── chatProto.pb.go
+│   │   └── chatProto.proto
+│   ├── router
+│   │   └── chatRouter.go
 │   ├── service
 │   │   └── serviceChat.go
-│   └── wsClient
+│   └── ws
 │       ├── connection.go
 │       └── hub.go
 ├── test
@@ -37,8 +37,10 @@
 │   │   ├── ChatProto_pb2.cpython-39.pyc
 │   │   └── locustfile.cpython-39.pyc
 │   ├── locustFile.py
-│   └── 压测报告.html
-└── 流程图.png
+│   └── 压力测试报告.html
+├── 流程图.png
+└── 连接流程图.png
+
 
 ```
 
@@ -48,8 +50,10 @@
 |层|文件夹|主要职责|调用关系|其他说明|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |应用层 |app/main.go  |服务器启动 |调用service层   |不可同层调用
-|service层  |internal/service | 处理来自对等方的 websocket 请求 | 调用websocket层 ，被应用层调用  |不可同层调用
-|websocket层 |internal/wsClient|提供基础的websocket功能 | 调用model，被服务层调用    |不可同层调用
+|ctrl层  |internal/ctrl| 处理逻辑的具体方法 | 调用model层 ，被router调用  |不可同层调用
+|service层  |internal/service | 处理来自对等方的 websocket 请求 | 调用ws层 ，被应用层调用  |不可同层调用
+|router层  |internal/router | 处理来自 ws层的类型| 调用ctrl层 ，被ws层调用  |不可同层调用
+|ws层 |internal/ws|提供基础的websocket功能 | 调用model，router。被service层调用  |不可同层调用
 | model |internal/model  |定义数据类型 | 被websocket层测试层层调用   |不可同层调用
 | 配置文件 |internal/log  |日志配置,系统日志文件 | 被websocket层 service层调用   |不可同层调用
 |测试层 |test|进行压力测试 | 调用websocket层，model层    |不可同层调用
@@ -115,6 +119,7 @@ go run main.go
 
 
 #### 9.流程图
+![fdews](连接流程图.png "流程图")
 ![fdews](流程图.png "流程图")
 
 

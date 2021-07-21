@@ -1,8 +1,10 @@
-package wsClient
+package ws
 
 import (
 	"ChatService/internal/config"
+	"ChatService/internal/ctrl"
 	"ChatService/internal/model"
+	"ChatService/internal/router"
 	"google.golang.org/protobuf/proto"
 	"time"
 
@@ -14,7 +16,7 @@ const (
 	writeWait = 10 * time.Second
 
 	// 允许从对等方读取下一个 pong 消息的时间。
-	pongWait = 20 * time.Second
+	pongWait = 10 * time.Second
 
 	// 在此期间向对等方发送 ping。 必须小于 pongWait。
 	pingPeriod = (pongWait * 9) / 10
@@ -43,9 +45,9 @@ var msg = &model.ChatRequest{}
 //读取
 
 func (c *Client) ReadPump() {
-	msg := &model.ChatRequest{}
 	defer func() {
-		ExitType(UserList, msg, c)
+		newMsg, _ := ctrl.ExitType(UserList, msg)
+		c.Hub.Broadcast <- newMsg
 		c.Conn.Close()
 	}()
 	c.Conn.SetReadLimit(maxMessageSize)
@@ -59,31 +61,9 @@ func (c *Client) ReadPump() {
 			}
 			break
 		}
+		newMsg := router.Type(UserList, message)
+		c.Hub.Broadcast <- newMsg
 		proto.Unmarshal(message, msg)
-		if msg.Type == model.ExitType {
-			err := ExitType(UserList, msg, c)
-			if err != nil {
-				config.Error.Println(err)
-				break
-			}
-		} else if msg.Type == model.TalkType {
-			config.Info.Print(model.TalkLog, msg.Content)
-			err := TalkType(UserList, msg, c)
-			if err != nil {
-				config.Error.Println(err)
-				break
-			}
-		} else if msg.Type == model.UserListType {
-			//读取用户列表
-			err := UserListType(msg, c)
-			if err != nil {
-				config.Error.Println(err)
-				break
-			}
-		} else {
-			newMsg, _ := proto.Marshal(msg)
-			c.Send <- newMsg
-		}
 	}
 }
 
@@ -115,64 +95,14 @@ func (c *Client) WritePump() {
 				w.Write(newline)
 				w.Write(<-c.Send)
 			}
-
 			if err := w.Close(); err != nil {
 				return
 			}
 		case <-ticker.C:
-			//c.Conn.SetWriteDeadline(time.Now().Add(writeWait))
+			c.Conn.SetWriteDeadline(time.Now().Add(writeWait))
 			if err := c.Conn.WriteMessage(websocket.PingMessage, nil); err != nil {
-				ExitType(UserList, msg, c)
 				return
 			}
 		}
 	}
-}
-
-//Talk 类型消息处理
-
-func TalkType(UserList map[string]string, msg *model.ChatRequest, c *Client) error {
-	UserList[msg.UserName] = msg.UserName
-	msg.UserList = UserList
-	newMsg, err := proto.Marshal(msg)
-	if err != nil {
-		config.Error.Println(err)
-		return err
-	}
-	c.Hub.Broadcast <- newMsg
-	return err
-}
-
-//Exit 类型消息处理
-
-func ExitType(UserList map[string]string, msg *model.ChatRequest, c *Client) error {
-	delete(UserList, msg.UserName)
-	msg.UserList = UserList
-	newMsg, err := proto.Marshal(msg)
-	if err != nil {
-		config.Error.Println(err)
-		return err
-	}
-	c.Hub.Broadcast <- newMsg
-	c.Hub.Unregister <- c
-	return err
-}
-
-//UserList 类型消息处理
-
-func UserListType(msg *model.ChatRequest, c *Client) error {
-	var userList string
-	if UserList != nil {
-		for _, value := range UserList {
-			userList += value + ","
-		}
-	}
-	msg.Content = userList
-	newMsg, err := proto.Marshal(msg)
-	if err != nil {
-		config.Error.Println(err)
-		return err
-	}
-	c.Hub.Broadcast <- newMsg
-	return err
 }
